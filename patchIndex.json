@@ -1,6 +1,7 @@
 [
    {
       "PatchName":"Launch Sale",
+      "PatchShorthand":"LaunchSale",
       "PatchDescription":"Notable for having CanDrop exploits, allowing you to freely detatch and move your cosmetics. Fun for modding!",
       "PatchLink":"https://github.com/gtarchiveteam/patches/raw/main/xdelta/candrop.xdelta",
       "GameLink":null,
