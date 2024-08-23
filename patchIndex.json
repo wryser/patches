@@ -8,7 +8,7 @@
       "IsSteam":true
    },
    {
-      "PatchName":"Test patch",
+      "PatchName":"Test patch - NO CONTENT!",
       "PatchDescription":"This patch contains no content. It is only used for testing.",
       "PatchLink":"https://example.com",
       "GameLink":"https://example.com",
