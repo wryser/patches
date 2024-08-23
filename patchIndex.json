@@ -3,7 +3,7 @@
       "PatchName":"Holiday Overstock",
       "PatchShorthand":"HolidayOverstock",
       "PatchDescription":"Notable for having CanDrop exploits, allowing you to freely detatch and move your cosmetics. Fun for modding!",
-      "PatchLink":"https://github.com/gtarchiveteam/patches/raw/main/xdelta/candrop.xdelta",
+      "PatchLink":"https://github.com/wryser/patches/raw/main/xdelta/candrop.xdelta",
       "GameLink":null,
       "ManifestId":5272615492296865291,
       "IsSteam":true
@@ -12,7 +12,7 @@
       "PatchName":"City Release",
       "PatchShorthand":"CityRelease",
       "PatchDescription":"First release of the city map!",
-      "PatchLink":"https://github.com/gtarchiveteam/patches/raw/main/xdelta/candrop.xdelta",
+      "PatchLink":"https://github.com/wryser/patches/raw/main/xdelta/cityrelease.xdelta",
       "GameLink":null,
       "ManifestId":8486188048224112520,
       "IsSteam":true
@@ -21,7 +21,7 @@
       "PatchName":"Neon Colors",
       "PatchShorthand":"NeonColors",
       "PatchDescription":"The last build to have unclamped color values. Also notable for being the first version to have the MOTD, various tap sounds, rock gorilla particles, etc.",
-      "PatchLink":"https://github.com/gtarchiveteam/patches/raw/main/xdelta/neon.xdelta",
+      "PatchLink":"https://github.com/wryser/patches/raw/main/xdelta/neon.xdelta",
       "GameLink":null,
       "ManifestId":1831142320395008381,
       "IsSteam":true
