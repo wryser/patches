@@ -2,14 +2,16 @@
    {
       "PatchName":"City Beta",
       "PatchDescription":"The very first beta of City that released. Low walls, old wardrobe, all of the stuff in the very very very first version of City!",
-      "DownloadLink":null,
+      "PatchLink":"https://github.com/gtarchiveteam/patches/raw/main/xdelta/city.xdelta",
+      "GameLink":null,
       "ManifestId":6742324848624721703,
       "IsSteam":true
    },
    {
       "PatchName":"Test patch",
       "PatchDescription":"This patch contains no content. It is only used for testing.",
-      "DownloadLink":"https://example.com",
+      "PatchLink":"https://example.com",
+      "GameLink":"https://example.com",
       "ManifestId":null,
       "IsSteam":false
    }
