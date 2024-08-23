@@ -7,5 +7,14 @@
       "GameLink":null,
       "ManifestId":5272615492296865291,
       "IsSteam":true
+   },   
+   {
+      "PatchName":"Neon Colors",
+      "PatchShorthand":"NeonColors",
+      "PatchDescription":"The last build to have unclamped color values. Also notable for being the first version to have the MOTD, various tap sounds, rock gorilla particles, etc.",
+      "PatchLink":"https://github.com/gtarchiveteam/patches/raw/main/xdelta/neon.xdelta",
+      "GameLink":null,
+      "ManifestId":1831142320395008381,
+      "IsSteam":true
    }
 ]
