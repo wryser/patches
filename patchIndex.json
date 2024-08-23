@@ -9,6 +9,15 @@
       "IsSteam":true
    },   
    {
+      "PatchName":"City Release",
+      "PatchShorthand":"CityRelease",
+      "PatchDescription":"First release of the city map!",
+      "PatchLink":"https://github.com/gtarchiveteam/patches/raw/main/xdelta/candrop.xdelta",
+      "GameLink":null,
+      "ManifestId":6742324848624721703,
+      "IsSteam":true
+   },   
+   {
       "PatchName":"Neon Colors",
       "PatchShorthand":"NeonColors",
       "PatchDescription":"The last build to have unclamped color values. Also notable for being the first version to have the MOTD, various tap sounds, rock gorilla particles, etc.",
