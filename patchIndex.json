@@ -2,7 +2,7 @@
    {
       "PatchName":"Holiday Overstock",
       "PatchShorthand":"HolidayOverstock",
-      "PatchDescription":"Notable for having CanDrop exploits, allowing you to freely detatch and move your cosmetics. Fun for modding!",
+      "PatchDescription":"Notable for having CanDrop exploits, allowing you to freely detatch and move your cosmetics. Fun for modding! (server hosted by not a bird)",
       "PatchLink":"https://github.com/wryser/patches/raw/main/xdelta/candrop.xdelta",
       "GameLink":null,
       "ManifestId":5272615492296865291,
@@ -11,16 +11,25 @@
    {
       "PatchName":"City Release",
       "PatchShorthand":"CityRelease",
-      "PatchDescription":"First release of the city map!",
+      "PatchDescription":"First release of the city map! (server hosted by wryser)",
       "PatchLink":"https://github.com/wryser/patches/raw/main/xdelta/cityrelease.xdelta",
       "GameLink":null,
       "ManifestId":8486188048224112520,
       "IsSteam":true
    },   
    {
+      "PatchName":"Christmas2021",
+      "PatchShorthand":"Christmas2021",
+      "PatchDescription":"The christmas 2021 update (server hosted by biotest05)",
+      "PatchLink":"https://github.com/wryser/patches/raw/main/xdelta/christmas2021.xdelta",
+      "GameLink":null,
+      "ManifestId":1790232358016968157,
+      "IsSteam":true
+   },   
+   {
       "PatchName":"Neon Colors",
       "PatchShorthand":"NeonColors",
-      "PatchDescription":"The last build to have unclamped color values. Also notable for being the first version to have the MOTD, various tap sounds, rock gorilla particles, etc.",
+      "PatchDescription":"The last build to have unclamped color values. Also notable for being the first version to have the MOTD, various tap sounds, rock gorilla particles, etc. (server hosted by lunakitty)",
       "PatchLink":"https://github.com/wryser/patches/raw/main/xdelta/neon.xdelta",
       "GameLink":null,
       "ManifestId":1831142320395008381,
