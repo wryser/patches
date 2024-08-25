@@ -18,7 +18,7 @@
       "IsSteam":true
    },   
    {
-      "PatchName":"Christmas2021",
+      "PatchName":"Christmas 2021",
       "PatchShorthand":"Christmas2021",
       "PatchDescription":"The christmas 2021 update (server hosted by biotest05)",
       "PatchLink":"https://github.com/wryser/patches/raw/main/xdelta/christmas2021.xdelta",
